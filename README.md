@@ -15,7 +15,6 @@ A full-stack clone of the Zerodha trading platform, featuring a backend API (Nod
 - [Backend API](#backend-api)
 - [Frontend & Dashboard](#frontend--dashboard)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
